@@ -1,0 +1,8 @@
+Package: ls5
+Version: 0.1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: DeadmanXXXII <themadhattersplayground.com@gmail.com>
+Description: A web scraping package using Selenium and Chromedriver. pip3 install webdriver-manager, selenium
