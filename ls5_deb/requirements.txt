@@ -1,3 +1,0 @@
-chromedriver-autoinstaller
-selenium
-webdriver-manager
