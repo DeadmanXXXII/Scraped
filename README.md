@@ -27,7 +27,7 @@ ls5 --url https://example.com
 4. **HTML Parsing**: Adjust the BeautifulSoup selectors based on the actual HTML structure of the target website. The `span` tag with class `username` and the email regex are placeholders and may need modification based on real content.
 
 5. **QUIC3**: Works on most quic3 protocols
-
+```
 
 
 - Certified Information Systems Security Professional (CISSP)
