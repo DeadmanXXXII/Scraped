@@ -31,4 +31,4 @@ ls5 --url https://example.com
 
 
 - Certified Information Systems Security Professional (CISSP)
-![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
+![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Scraped/main/Screenshot_20250425-183101.png)
