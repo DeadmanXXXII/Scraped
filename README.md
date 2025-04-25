@@ -1,4 +1,4 @@
-and records the results.
+Now has a new edition that can work on .onion websites.
      - Writes successful results to a file (`account_info.txt`) to keep track of progress and avoid losing data if the script is interrupted.
      - Prints progress every 10 IDs to provide feedback on the scriptâ€™s progress.
      - Introduces a small delay (`time.sleep(0.001)`) between requests to prevent rate limiting or overloading the server.
