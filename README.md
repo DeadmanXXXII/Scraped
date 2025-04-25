@@ -30,5 +30,6 @@ ls5 --url https://example.com
 ```
 
 
-- Certified Information Systems Security Professional (CISSP)
-![CISSP](https://raw.githubusercontent.com/DeadmanXXXII/Scraped/main/Screenshot_20250425-183101.png)
+- PoC usage of torscaper
+- https://pypi.org/project/TorScraper/0.1.0/
+![usage](https://raw.githubusercontent.com/DeadmanXXXII/Scraped/main/Screenshot_20250425-183101.png)
